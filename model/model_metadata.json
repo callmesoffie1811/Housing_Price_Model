@@ -1,0 +1,20 @@
+{
+  "best_model": "Ridge Regression",
+  "model_features": [
+    "bedrooms",
+    "bathrooms",
+    "car_spaces",
+    "land_size_m2",
+    "building_size_m2",
+    "schools_nearby_count",
+    "sold_year",
+    "sold_month",
+    "sold_quarter",
+    "total_rooms",
+    "suburb",
+    "property_type",
+    "suburb_property_type",
+    "land_size_missing"
+  ],
+  "target": "sold_price_aud"
+}
